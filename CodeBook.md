@@ -10,8 +10,8 @@ activity
 6 Levels: WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING  
 
 ## The other columns 
-They are feature variables that either means or standard deviations of the features from the original data file.  (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-There are 561 feature variables in the original data file, and there are 86 feature variables in the current data file.
+They are feature variables that are either means or standard deviations of the features from the original data file.  (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+There are 561 feature variables in the original data file, and are 86 feature variables in the current data file.
 
 tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
