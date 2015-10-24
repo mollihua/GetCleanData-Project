@@ -1,13 +1,13 @@
 # CodeBook of the data file tidydata.txt
 
 ## Column 1
-subject
-IDs of the subjects
-30 Levels: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+subject  
+IDs of the subjects  
+30 Levels: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30  
 
-## Column 2 
+## Column 2
 activity  
-6 Levels: WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
+6 Levels: WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING  
 
 ## The other columns 
 They are feature variables that either means or standard deviations of the features from the original data file.  (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
