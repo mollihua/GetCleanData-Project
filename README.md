@@ -23,4 +23,4 @@ To test the R script:
     2. Run the R script:
 	source ("./run_analysis.R")  
 
-For further questions, please contact Mo Chen at mochen.mmm@gmail.com. Thanks!  
+For further questions, please contact Mo Chen at mochenserey@gmail.com. Thanks!  
